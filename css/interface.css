@@ -1,0 +1,23 @@
+.file-picker-select {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    padding-bottom: 25px;
+}
+
+.file-picker-select label {
+    padding-left: 20px;
+}
+
+.file-picker-select-group {
+
+}
+
+iframe {
+    display: none;
+    left: 100%;
+}
+
+.result{
+    display: none;
+}
